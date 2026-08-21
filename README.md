@@ -67,15 +67,29 @@ I've worked on production projects for clients across different industries.
 
 </div>
 
-### Backend & Database
+**Core:** HTML5 · CSS3 · JavaScript · **TypeScript · React · Next.js · Tailwind CSS**
+
+### Backend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 </div>
 
-### Tools & Workflow
+**Core:** Node.js · Express.js · REST APIs · Authentication · Authorization
+
+### Database & Authentication
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
+
+</div>
+
+**Core:** MongoDB · Mongoose · Firebase Authentication · Supabase
+
+### Tools & Deployment
 
 <div align="center">
 
@@ -83,13 +97,18 @@ I've worked on production projects for clients across different industries.
 
 </div>
 
-### Other Technologies
+**Core:** Git · GitHub · Vite · Figma · Vercel · Postman
+
+### Programming & Other Technologies
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 
 </div>
+
+**Core:** Python · C · C++
+
 
 ---
 
@@ -219,7 +238,6 @@ I'm currently interested in:
 I'm continuously improving my skills in:
 
 * Advanced Next.js architecture
-* TypeScript
 * Scalable backend architecture
 * AI-powered applications
 * LLM & AI agent development
