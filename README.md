@@ -26,7 +26,7 @@ I'm a **Full-Stack Developer** specializing in modern JavaScript/TypeScript appl
 
 I work across the entire development lifecycle — from **UI development and API design to databases, authentication, deployment, and production debugging**.
 
-I've built and deployed real-world applications including:
+I've built and deployed real-world applications including-
 
 * 🛒 **E-commerce platforms**
 * 🎓 **Learning Management Systems (LMS)**
