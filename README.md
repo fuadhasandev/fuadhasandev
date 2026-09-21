@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Images/Cover-photo.png" alt="Fuad Hasan — Full-Stack Developer" />
+  <img src="/Images/cover-photo.png" alt="Fuad Hasan — Full-Stack Developer" />
 </p>
 
 <h1 align="center">Hi, I'm Fuad Hasan 👋</h1>
