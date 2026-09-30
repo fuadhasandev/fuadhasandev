@@ -1,15 +1,11 @@
 <p align="center">
-  <img src="/Images/Cover-photo.png" alt="Fuad Hasan — Full-Stack Developer" />
+  <strong>Founder & Full-Stack Engineer | Building AI Products in Public</strong>
 </p>
 
 <h1 align="center">Hi, I'm Fuad Hasan 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | Next.js • React • TypeScript • Node.js</strong>
-</p>
-
-<p align="center">
-  I build production-ready web applications for businesses, startups, and clients.
+  I build production-ready web apps for clients and I'm building my own AI product in public.
 </p>
 
 <p align="center">
@@ -22,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** specializing in modern JavaScript/TypeScript applications.
+I'm a **Founder & Full-Stack Engineer** building AI-powered web products, with a strong foundation in production JavaScript/TypeScript applications.
 
 I work across the entire development lifecycle — from **UI development and API design to databases, authentication, deployment, and production debugging**.
 
@@ -204,13 +200,13 @@ A customer-facing product sales platform designed for online product discovery a
 
 I'm currently interested in:
 
-* 💼 **Remote Full-Stack Developer opportunities**
-* 🚀 **Startup & SaaS projects**
+* 🚀 **Building my own AI product** (in public)
+* 💼 **Remote Full-Stack / AI Application roles**
+* 🤝 **Startup & SaaS partnerships**
+* 🌎 **International remote opportunities**
 * ⚛️ **Next.js / React development**
 * 🟦 **TypeScript development**
 * 🟢 **Node.js backend development**
-* 🤝 **Long-term client partnerships**
-* 🌎 **International remote opportunities**
 
 ---
 
@@ -218,12 +214,10 @@ I'm currently interested in:
 
 I'm continuously improving my skills in:
 
-* Advanced Next.js architecture
-* TypeScript
-* Scalable backend architecture
-* AI-powered applications
-* LLM & AI agent development
-* Database optimization
+* LLM APIs, streaming & structured outputs
+* RAG (embeddings + vector search)
+* AI agents & tool calling
+* Advanced Next.js & TypeScript
 * Production-grade system design
 
 ---
