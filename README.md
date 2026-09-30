@@ -182,15 +182,15 @@ A customer-facing product sales platform designed for online product discovery a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fuadhasan05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fuadhasandev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadhasan05&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadhasandev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fuadhasan05&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fuadhasandev&theme=tokyonight&hide_border=true" />
 
 </div>
 
