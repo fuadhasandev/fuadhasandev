@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a **Founder & Full-Stack Engineer** building AI-powered web products, with a strong foundation in production JavaScript/TypeScript applications.
+I'm a **Full-Stack Engineer** building AI-powered web products, with a strong foundation in production JavaScript/TypeScript applications.
 
 I work across the entire development lifecycle — from **UI development and API design to databases, authentication, deployment, and production debugging**.
 
