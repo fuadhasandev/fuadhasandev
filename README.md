@@ -1,11 +1,11 @@
 <p align="center">
-  <strong>Founder & Full-Stack Engineer | Building AI Products in Public</strong>
+  <strong>Full-Stack Engineer | Building AI Products in Public</strong>
 </p>
 
 <h1 align="center">Hi, I'm Fuad Hasan 👋</h1>
 
 <p align="center">
-  I build production-ready web apps for clients and I'm building my own AI product in public.
+  I build production-ready web apps for clients, and I'm building my own AI product in public.
 </p>
 
 <p align="center">
